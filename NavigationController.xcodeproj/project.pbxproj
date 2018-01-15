@@ -12,6 +12,7 @@
 		98203D52200D2CE6001AA93A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98203D50200D2CE6001AA93A /* Main.storyboard */; };
 		98203D54200D2CE6001AA93A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98203D53200D2CE6001AA93A /* Assets.xcassets */; };
 		98203D57200D2CE6001AA93A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98203D55200D2CE6001AA93A /* LaunchScreen.storyboard */; };
+		98203D5F200D3220001AA93A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98203D5E200D3220001AA93A /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		98203D53200D2CE6001AA93A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98203D56200D2CE6001AA93A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		98203D58200D2CE6001AA93A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98203D5E200D3220001AA93A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				98203D4C200D2CE6001AA93A /* AppDelegate.swift */,
 				98203D4E200D2CE6001AA93A /* ViewController.swift */,
 				98203D50200D2CE6001AA93A /* Main.storyboard */,
+				98203D5E200D3220001AA93A /* SecondViewController.swift */,
 				98203D53200D2CE6001AA93A /* Assets.xcassets */,
 				98203D55200D2CE6001AA93A /* LaunchScreen.storyboard */,
 				98203D58200D2CE6001AA93A /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98203D5F200D3220001AA93A /* SecondViewController.swift in Sources */,
 				98203D4F200D2CE6001AA93A /* ViewController.swift in Sources */,
 				98203D4D200D2CE6001AA93A /* AppDelegate.swift in Sources */,
 			);
